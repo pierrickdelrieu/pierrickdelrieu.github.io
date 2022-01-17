@@ -1,4 +1,4 @@
-# pierrickdelrieu.github.io
+# Pierrick Delrieu
 
 
-CV => https://pierrickdelrieu.github.io/CV/
+- **CV** => [https://pierrickdelrieu.github.io/CV/]
